@@ -1,6 +1,6 @@
 package org.erp_microservices.people_and_organizations.models.party.model;
 
-import erp_microservices.validations.annotations.AtLeastOneNotBlank;
+import org.erp_microservices.validations.annotations.AtLeastOneNotBlank;
 
 import javax.persistence.Entity;
 import javax.xml.bind.annotation.XmlRootElement;

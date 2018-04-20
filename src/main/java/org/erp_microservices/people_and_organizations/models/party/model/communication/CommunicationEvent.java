@@ -1,6 +1,6 @@
 package org.erp_microservices.people_and_organizations.models.party.model.communication;
 
-import erp_microservices.model.PersistentEntity;
+import org.erp_microservices.model.PersistentEntity;
 import org.erp_microservices.people_and_organizations.models.party.model.PartyContactMechanism;
 import org.erp_microservices.people_and_organizations.models.party.model.relationship.PartyRelationship;
 import org.hibernate.validator.constraints.NotEmpty;

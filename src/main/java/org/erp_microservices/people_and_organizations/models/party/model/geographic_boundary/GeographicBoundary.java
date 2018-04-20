@@ -1,6 +1,6 @@
 package org.erp_microservices.people_and_organizations.models.party.model.geographic_boundary;
 
-import erp_microservices.model.PersistentEntity;
+import org.erp_microservices.model.PersistentEntity;
 import org.erp_microservices.people_and_organizations.models.party.model.contactmechanism.PostalAddress;
 import org.hibernate.validator.constraints.NotEmpty;
 

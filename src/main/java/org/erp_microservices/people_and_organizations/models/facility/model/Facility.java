@@ -1,6 +1,6 @@
 package org.erp_microservices.people_and_organizations.models.facility.model;
 
-import erp_microservices.model.PersistentEntity;
+import org.erp_microservices.model.PersistentEntity;
 import org.hibernate.validator.constraints.NotEmpty;
 
 import javax.persistence.Entity;

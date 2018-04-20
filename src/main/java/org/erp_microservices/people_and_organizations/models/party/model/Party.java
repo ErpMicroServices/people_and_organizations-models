@@ -1,6 +1,6 @@
 package org.erp_microservices.people_and_organizations.models.party.model;
 
-import erp_microservices.model.PersistentEntity;
+import org.erp_microservices.model.PersistentEntity;
 import org.erp_microservices.people_and_organizations.models.facility.model.FacilityRole;
 import org.erp_microservices.people_and_organizations.models.party.model.communication.CaseRole;
 import org.erp_microservices.people_and_organizations.models.party.model.communication.CommunicationEventRole;

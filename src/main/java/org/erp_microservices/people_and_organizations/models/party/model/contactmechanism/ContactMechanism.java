@@ -1,6 +1,6 @@
 package org.erp_microservices.people_and_organizations.models.party.model.contactmechanism;
 
-import erp_microservices.model.PersistentEntity;
+import org.erp_microservices.model.PersistentEntity;
 import org.erp_microservices.people_and_organizations.models.facility.model.FacilityContactMechanism;
 import org.erp_microservices.people_and_organizations.models.party.model.PartyContactMechanism;
 

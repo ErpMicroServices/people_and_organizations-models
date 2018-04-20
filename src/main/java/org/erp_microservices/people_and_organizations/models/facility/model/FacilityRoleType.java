@@ -1,7 +1,7 @@
 package org.erp_microservices.people_and_organizations.models.facility.model;
 
 
-import erp_microservices.model.Type;
+import org.erp_microservices.model.Type;
 
 import javax.persistence.Entity;
 

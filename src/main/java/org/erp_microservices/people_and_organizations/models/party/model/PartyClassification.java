@@ -1,7 +1,7 @@
 package org.erp_microservices.people_and_organizations.models.party.model;
 
-import erp_microservices.fields.DateTimeRange;
-import erp_microservices.model.PersistentEntity;
+import org.erp_microservices.fields.DateTimeRange;
+import org.erp_microservices.model.PersistentEntity;
 
 import javax.persistence.*;
 import javax.validation.constraints.NotNull;
